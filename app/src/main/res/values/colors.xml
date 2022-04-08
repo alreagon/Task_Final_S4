@@ -7,4 +7,17 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+
+    <color name="orenMantep">#F8C154</color>
+    <color name="pinkSplash">#EA707D</color>
+    <color name="light_white">#f2f5f8</color>
+    <color name="biru_bagus">#608EC1</color>
+    <color name="abu_bagus">#8C8E91</color>
+    <color name="ijo_bagus">#31A65C</color>
+    <color name="biru_bagus_2">#087580</color>
+    <color name="merah_agak_kalem">#EE1616</color>
+    <color name="oren_bagus">#F7A010</color>
+    <color name="pinki">#FFA4B6</color>
+    <color name="unyu">#A155B9</color>
 </resources>

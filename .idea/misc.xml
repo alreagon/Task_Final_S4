@@ -1,5 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/.DATA GUE/Kuliah/Binar Academy/Tugas/CHAPTER_4/Task_Final_Chapter_4/app/src/main/res/drawable-v24/ic_add.xml" value="0.147" />
+        <entry key="..\:/.DATA GUE/Kuliah/Binar Academy/Tugas/CHAPTER_4/Task_Final_Chapter_4/app/src/main/res/drawable/batenabu.xml" value="0.1705" />
+        <entry key="..\:/.DATA GUE/Kuliah/Binar Academy/Tugas/CHAPTER_4/Task_Final_Chapter_4/app/src/main/res/drawable/batenoren.xml" value="0.1705" />
+        <entry key="..\:/.DATA GUE/Kuliah/Binar Academy/Tugas/CHAPTER_4/Task_Final_Chapter_4/app/src/main/res/drawable/custom_layout_edit_text.xml" value="0.1785" />
+        <entry key="..\:/.DATA GUE/Kuliah/Binar Academy/Tugas/CHAPTER_4/Task_Final_Chapter_4/app/src/main/res/drawable/ic_add.xml" value="0.147" />
+        <entry key="..\:/.DATA GUE/Kuliah/Binar Academy/Tugas/CHAPTER_4/Task_Final_Chapter_4/app/src/main/res/drawable/kotak.xml" value="0.1705" />
+        <entry key="..\:/.DATA GUE/Kuliah/Binar Academy/Tugas/CHAPTER_4/Task_Final_Chapter_4/app/src/main/res/layout/activity_home_screen.xml" value="0.22447916666666667" />
+        <entry key="..\:/.DATA GUE/Kuliah/Binar Academy/Tugas/CHAPTER_4/Task_Final_Chapter_4/app/src/main/res/layout/activity_main.xml" value="0.15" />
+        <entry key="..\:/.DATA GUE/Kuliah/Binar Academy/Tugas/CHAPTER_4/Task_Final_Chapter_4/app/src/main/res/layout/activity_splash_screen.xml" value="0.14" />
+        <entry key="..\:/.DATA GUE/Kuliah/Binar Academy/Tugas/CHAPTER_4/Task_Final_Chapter_4/app/src/main/res/layout/custom_layout_dialog_edit_data.xml" value="0.16" />
+        <entry key="..\:/.DATA GUE/Kuliah/Binar Academy/Tugas/CHAPTER_4/Task_Final_Chapter_4/app/src/main/res/layout/custom_layout_dialog_hapus_data.xml" value="0.2" />
+        <entry key="..\:/.DATA GUE/Kuliah/Binar Academy/Tugas/CHAPTER_4/Task_Final_Chapter_4/app/src/main/res/layout/custom_row.xml" value="0.22447916666666667" />
+        <entry key="..\:/.DATA GUE/Kuliah/Binar Academy/Tugas/CHAPTER_4/Task_Final_Chapter_4/app/src/main/res/layout/fragment_add.xml" value="0.22447916666666667" />
+        <entry key="..\:/.DATA GUE/Kuliah/Binar Academy/Tugas/CHAPTER_4/Task_Final_Chapter_4/app/src/main/res/layout/fragment_delete.xml" value="0.22447916666666667" />
+        <entry key="..\:/.DATA GUE/Kuliah/Binar Academy/Tugas/CHAPTER_4/Task_Final_Chapter_4/app/src/main/res/layout/fragment_home.xml" value="0.14" />
+        <entry key="..\:/.DATA GUE/Kuliah/Binar Academy/Tugas/CHAPTER_4/Task_Final_Chapter_4/app/src/main/res/layout/fragment_input_dialog.xml" value="0.15" />
+        <entry key="..\:/.DATA GUE/Kuliah/Binar Academy/Tugas/CHAPTER_4/Task_Final_Chapter_4/app/src/main/res/layout/fragment_list.xml" value="0.22447916666666667" />
+        <entry key="..\:/.DATA GUE/Kuliah/Binar Academy/Tugas/CHAPTER_4/Task_Final_Chapter_4/app/src/main/res/layout/fragment_login.xml" value="0.17" />
+        <entry key="..\:/.DATA GUE/Kuliah/Binar Academy/Tugas/CHAPTER_4/Task_Final_Chapter_4/app/src/main/res/layout/fragment_login1.xml" value="0.1417763157894737" />
+        <entry key="..\:/.DATA GUE/Kuliah/Binar Academy/Tugas/CHAPTER_4/Task_Final_Chapter_4/app/src/main/res/layout/fragment_register.xml" value="0.16" />
+        <entry key="..\:/.DATA GUE/Kuliah/Binar Academy/Tugas/CHAPTER_4/Task_Final_Chapter_4/app/src/main/res/layout/fragment_register1.xml" value="0.1417763157894737" />
+        <entry key="..\:/.DATA GUE/Kuliah/Binar Academy/Tugas/CHAPTER_4/Task_Final_Chapter_4/app/src/main/res/layout/fragment_splash.xml" value="0.1417763157894737" />
+        <entry key="..\:/.DATA GUE/Kuliah/Binar Academy/Tugas/CHAPTER_4/Task_Final_Chapter_4/app/src/main/res/layout/fragment_update.xml" value="0.22447916666666667" />
+        <entry key="..\:/.DATA GUE/Kuliah/Binar Academy/Tugas/CHAPTER_4/Task_Final_Chapter_4/app/src/main/res/layout/item_adapter_catatan.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
