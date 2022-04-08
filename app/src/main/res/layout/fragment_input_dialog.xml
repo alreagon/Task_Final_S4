@@ -6,15 +6,14 @@
     android:layout_height="wrap_content"
     android:background="@drawable/kotakputih"
     tools:context=".InputDialogFragment">
+
     <TextView
         android:id="@+id/text_input_data"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_centerHorizontal="true"
         android:layout_marginVertical="20dp"
-        android:layout_marginStart="150dp"
         android:layout_marginTop="20dp"
-        android:layout_marginEnd="150dp"
         android:text="INPUT DATA"
         android:textColor="@color/abu_bagus"
         android:textSize="28dp"
@@ -27,6 +26,7 @@
         style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:layout_below="@id/text_input_data"
         android:layout_marginHorizontal="50dp"
         android:layout_marginTop="10dp"
         android:hint="@string/masukkan_judul"
@@ -62,9 +62,10 @@
         style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:layout_below="@id/textInputJuduldialog"
         android:layout_marginHorizontal="50dp"
         android:layout_marginTop="10dp"
-        android:hint="@string/masukkan_judul"
+        android:hint="@string/masukkan_catatan"
         android:textColorHint="@color/abu_bagus"
         app:boxCornerRadiusBottomEnd="20dp"
         app:boxCornerRadiusBottomStart="20dp"
@@ -93,20 +94,20 @@
 
 
     <androidx.appcompat.widget.AppCompatButton
+
         android:id="@+id/tambahButtonInput"
-        android:layout_width="150dp"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_alignParentStart="true"
-        android:layout_alignParentEnd="true"
-        android:layout_marginTop="26dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginHorizontal="30dp"
+        android:layout_below="@id/textInputCatatandialog"
+        android:layout_alignStart="@id/textInputCatatandialog"
+        android:layout_alignEnd="@id/textInputCatatandialog"
         android:layout_marginBottom="20dp"
         android:background="@drawable/batenabu"
         android:elevation="20dp"
-        android:text="Input"
-        android:textColor="#1B1919"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@id/textInputCatatandialog" />
-
+        android:text="@string/input"
+        android:textColor="#1B1919" />
 </RelativeLayout>
+
+<!-- Dah capek kak buat layout nya, bingung hehe, ini doang yg masalah-->
